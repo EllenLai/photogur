@@ -1,4 +1,12 @@
-cclass PicturesController < ApplicationController
+class PicturesController < ApplicationController
+
+   def index
+    @pictures = Picture.all
+  end
+
+  def show
+    @picture = Picture.find(params[:id])
+  end
 
   def new
     @picture = Picture.new
@@ -14,11 +22,12 @@ cclass PicturesController < ApplicationController
       # otherwise render the view associated with the action :new (i.e. new.html.erb)
       render :new
     end
-  end
+   end
+
 
   private
   def picture_params
     params.require(:picture).permit(:artist, :title, :url)
   end
-
 end
+
