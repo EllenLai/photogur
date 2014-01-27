@@ -1,0 +1,224 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"attribute",
+				"attribute"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"sum",
+				"sum"
+			],
+			[
+				"x",
+				"xpa	xpath(..) { .. }"
+			],
+			[
+				"sor",
+				"sorted_list"
+			],
+			[
+				"gr",
+				"grocery_list"
+			],
+			[
+				"g",
+				"grocery_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Ellen/Desktop/photogur/config/routes.rb",
+		"/Users/Ellen/Desktop/photogur/app/controllers/pictures_controller.rb",
+		"/Users/Ellen/Desktop/Day 2 HTML/day2html.css",
+		"/Users/Ellen/Desktop/Day 2 HTML/day2html.html",
+		"/Users/Ellen/Desktop/learn_ruby/05_silly_blocks/silly_blocks_spec.rb",
+		"/Users/Ellen/Desktop/learn_ruby/05_silly_blocks/silly_blocks.rb",
+		"/Users/Ellen/Desktop/learn_ruby/05_silly_blocks/silly_blocks.spec.rb",
+		"/Users/Ellen/Desktop/learn_ruby/04_pig_latin/pig_latin_spec.rb",
+		"/Users/Ellen/Desktop/learn_ruby/04_pig_latin/pig_latin.rb",
+		"/Users/Ellen/Desktop/learn_ruby/04_pig_latin/04_pig_latin",
+		"/Users/Ellen/Desktop/learn_ruby/02_calculator/calculator_spec.rb",
+		"/Users/Ellen/Desktop/learn_ruby/02_calculator/calculator.rb",
+		"/Users/Ellen/Desktop/learn_ruby/03_simon_says/simon_says_spec.rb",
+		"/Users/Ellen/Desktop/learn_ruby/03_simon_says/simon_says.rb",
+		"/Users/Ellen/rubequetest.rb",
+		"/Users/Ellen/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/Ellen/Desktop/salestaxex.rb",
+		"/Users/Ellen/Desktop/exercise1.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Point",
+			")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
