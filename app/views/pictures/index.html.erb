@@ -1,6 +1,22 @@
 <h1>Pictures (<%= @pictures.length %>)</h1>
 <%= link_to "New Picture", "/pictures/new" %>
 
+<h1>Most recent pictures</h1>
+<ul>
+	<% @most_recent_pictures.each do |picture| %>
+	<li><%= picture.title %></li>
+	<% end %>
+</ul>
+
+<h1>Older pictures (more than 2 days ago)</h1>
+<ul>
+	<% @old_pictures.each do |picture| %>
+	<li><%= picture.title %></li>
+	<% end %>
+</ul>
+
+
+
 <%- @pictures.each do |picture| %>
   <p><%= picture[:title] %>, <%= picture[:artist] %></p>
   <%= link_to image_tag(picture.url), "/pictures/#{picture.id}" %>
